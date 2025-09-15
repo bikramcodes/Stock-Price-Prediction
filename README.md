@@ -1,4 +1,4 @@
-##📈 Stock Price Prediction with Time Series Modeling
+## 📈 Stock Price Prediction with Time Series Modeling
 
 Forecasting stock prices using statistical time series models. This project explores multiple forecasting approaches, compares their performance, and visualizes predictions against real stock data.
 
